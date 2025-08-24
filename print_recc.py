@@ -10,7 +10,7 @@ class Solution:
 
         _print(n,1)
             
-#https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/
+#https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1
             
 class Solution:
     def printNos(self, n):
